@@ -2,7 +2,7 @@
 <h3 align="center">Junior Web Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorevh" alt="victorevh" /> </p>
 
-- 🔭 Ssupport Analyst in [Hand Talk](https://handtalk.me)
+- 🔭 Support Analyst in [Hand Talk](https://handtalk.me)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript.**
 
