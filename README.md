@@ -15,7 +15,7 @@
 
 <br>
 
-<h3> My skills </h3>
+<h3>My skills</h3>
 
 <div align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="30" height="30"/>
@@ -32,18 +32,18 @@
   <br>
 
   
-<div style="display: flex; justify-content: center;">
+<p align="center">
   <a href="https://github.com/victorevh" style="text-decoration:none">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorevh&show_icons=true&theme=midnight-purple"/></a>
   <a href="https://github.com/victorevh" style="text-decoration:none">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorevh&layout=compact&langs_count=16&theme=midnight-purple"/></a>
-</div>
+</p>
 
 <br>
 
-<div style="display: flex; justify-content: center;">
+<p align="center">
 <a href="https://twitter.com/victorevh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="victorevh" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/victor-oliveira-santos-b10bb81ab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="victorevh" height="20" width="20" /></a>
 <a href="https://fb.com/victor.oliveirasantos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="victorevh" height="20" width="20" /></a>
 <a href="https://instagram.com/victorevh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="victorevh" height="20" width="20" /></a>
-</div>
+</p>
