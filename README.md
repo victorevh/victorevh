@@ -1,10 +1,10 @@
 <h2 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Victor Oliveira</h2>
-<h3 align="center">Junior Web Developer</h3>
+<h3 align="center">Software Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorevh" alt="victorevh" /> </p>
 
 <br>
 
-- 🔭 Information Systems student ,currently working as a support analyst at [Hand Talk](https://handtalk.me)
+- 🔭 Information Systems student ,currently working as a Front-End Developer at [Hand Talk](https://handtalk.me)
 
 
 - 📫 How to reach me **victor_oliveirasantos@hotmail.com**
