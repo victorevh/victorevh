@@ -47,3 +47,5 @@
 <a href="https://fb.com/victor.oliveirasantos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="victorevh" height="20" width="20" /></a>
 <a href="https://instagram.com/victorevh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="victorevh" height="20" width="20" /></a>
 </p>
+
+[![An image of @victorevh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/victorevh)](https://holopin.io/@victorevh)
