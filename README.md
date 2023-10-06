@@ -4,14 +4,10 @@
 
 <br>
 
-- 🔭 Information Systems student ,currently working as a Front-End Developer at [Hand Talk](https://handtalk.me)
+- 🔭 Bachelor of Information Systems, currently working as a Front-End Developer at [Hand Talk](https://handtalk.me)
 
 
 - 📫 How to reach me **victor_oliveirasantos@hotmail.com**
-
-- 👩🏽‍💻<b> Skills I'm interested in developing:</b><br>
-  Node.js • Python • Tailwind • Nuxt.js • PHP
-
 
 <br>
 
