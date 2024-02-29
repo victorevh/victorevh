@@ -4,7 +4,7 @@
 
 <br>
 
-- 🔭 Bachelor of Information Systems, currently working as a Front-End Developer at [Hand Talk](https://handtalk.me)
+- 🔭 Bachelor of Information Systems, currently working as a Full Stack Developer at [Hand Talk](https://handtalk.me)
 
 
 - 📫 How to reach me **victor_oliveirasantos@hotmail.com**
@@ -23,6 +23,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="javascript" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="javascript" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="javascript" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="javascript" width="30" height="30"/>
 </div>
 <br>
 
