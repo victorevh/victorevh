@@ -112,9 +112,6 @@ Code is not just about making things work, it's about making them understandable
   <a href="mailto:victor_oliveirasantos@hotmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge"/>
   </a>
-  <a href="https://github.com/victorevh">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge"/>
-  </a>
   <a href="https://linkedin.com/in/victor-oliveira-santos-b10bb81ab">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
   </a>
